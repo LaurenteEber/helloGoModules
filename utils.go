@@ -2,6 +2,6 @@ package utils
 
 import "fmt"
 
-func HelloGoMolules() {
+func HelloGoModules() {
 	fmt.Println("Hello Golang Modules")
 }
